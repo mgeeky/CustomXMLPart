@@ -2,8 +2,10 @@
 
 A PoC weaponising CustomXMLPart for hiding malware code inside of Office document structures.
 
+![1.png](1.png)
+
 Technical explanation described in a dedicated blog post:
-- [Backdooring Office Structures.  Part 2: Payload Crumbs In Custom Parts](https://mgeeky.tech/backdooring-office-structures-part-2-payload-crumbs-in-custom-parts/)
+- [Backdooring Office Structures. Part 2: Payload Crumbs In Custom Parts](https://mgeeky.tech/payload-crumbs-in-custom-parts/)
 
 ## What it does?
 
