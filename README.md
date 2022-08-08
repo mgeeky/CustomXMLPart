@@ -1,6 +1,6 @@
 # CustomXMLPart
 
-A PoC weaponising CustomXMLPart for hiding malware code inside of Office document structures.
+A PoC weaponising [Custom XML parts](https://docs.microsoft.com/en-us/visualstudio/vsto/custom-xml-parts-overview?view=vs-2022) for stealthily hiding malware code inside of Office document structures.
 
 ![1.png](1.png)
 
@@ -9,7 +9,7 @@ Technical explanation described in a dedicated blog post:
 
 ## What it does?
 
-The code simply displays a message box with a text extracted from a part.
+The document provided simply displays a message box with a text extracted from a part.
 
 ---
 
